@@ -3,7 +3,9 @@
   📺 Plataforma de filmes 📺
 </h3>
 
-<blockquote align="center">“Selecione seu filme preferido para assistir, podendo ver a capa dele”</blockquote>
+<blockquote align="center">“O usuário podera adicionar seus filmes favoritos como
+ uma lista, usamos dados de um array com um laço de repetição no JavaScript, tendo um prompt para aparecer para o usuário a escolha do filme.
+”</blockquote>
 
 <p align="center">
 <img width="100%" src="img/principal.PNG">
